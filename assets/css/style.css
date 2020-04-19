@@ -1,0 +1,14 @@
+article {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+
+footer {
+  border: solid gainsboro;
+  border-width: 1px 0 0 0;
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  font-size: 9pt;
+}

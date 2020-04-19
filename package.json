@@ -1,0 +1,11 @@
+{
+  "name": "@piyoppi/pixelart-element",
+  "version": "0.0.1",
+  "description": "pixelart rendering element",
+  "author": "piyoppi",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "lit-element": "^2.3.1"
+  }
+}
