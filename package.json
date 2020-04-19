@@ -5,7 +5,8 @@
   "author": "piyoppi",
   "license": "MIT",
   "scripts": {
-    "build": "parcel build index.html assets/**/*"
+    "build": "parcel build index.html assets/**/*",
+    "build-gh-pages": "parcel build --public-url=/pixelart-element index.html assets/**/*"
   },
   "dependencies": {
     "lit-element": "^2.3.1"
