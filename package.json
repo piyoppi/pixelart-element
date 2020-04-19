@@ -4,8 +4,13 @@
   "description": "pixelart rendering element",
   "author": "piyoppi",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {
+  "scripts": {
+    "build": "parcel build index.html assets/**/*"
+  },
+  "dependencies": {
     "lit-element": "^2.3.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
   }
 }
