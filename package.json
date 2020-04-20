@@ -1,0 +1,27 @@
+{
+  "name": "@piyoppi/pixelart-element",
+  "version": "0.0.1",
+  "description": "pixelart rendering element",
+  "author": "piyoppi",
+  "license": "MIT",
+  "main": "src/main.js",
+  "source": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.9.2",
+    "core-js": "^3.6.5",
+    "lit-element": "^2.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-proposal-decorators": "^7.8.3",
+    "@babel/plugin-transform-runtime": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}

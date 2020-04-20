@@ -1,2 +1,14 @@
-article{margin:0 auto;padding:10px 20px}article,footer{max-width:900px}footer{border:solid #dcdcdc;border-width:1px 0 0;margin:20px auto;padding:20px;font-size:9pt}
-/*# sourceMappingURL=/pixelart-element/style.css.map */
+article {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+
+footer {
+  border: solid gainsboro;
+  border-width: 1px 0 0 0;
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  font-size: 9pt;
+}
