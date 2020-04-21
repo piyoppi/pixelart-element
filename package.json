@@ -1,7 +1,7 @@
 {
   "name": "@piyoppi/pixelart-element",
   "version": "0.0.1",
-  "description": "pixelart rendering element",
+  "description": "The custom element by displaying pixelart beautifully",
   "author": "piyoppi",
   "license": "MIT",
   "main": "src/main.js",
