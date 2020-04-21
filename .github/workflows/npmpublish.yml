@@ -34,7 +34,7 @@ jobs:
       - uses: actions/download-artifact@v1
         with:
           name: pixelart-element.bundle.js
-          path: ./dist/pixelart-element.bundle.js
+          path: ./dist
       - run: npm ci
       - run: npm publish
         env:
