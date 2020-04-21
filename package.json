@@ -5,7 +5,9 @@
   "author": "piyoppi",
   "license": "MIT",
   "main": "src/main.js",
-  "source": true,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "webpack"
   },
