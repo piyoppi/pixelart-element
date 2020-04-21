@@ -6,7 +6,7 @@ module.exports = {
   },
   output: {
     path: `${__dirname}/dist/`,
-    filename: '[name].bundle.js'
+    filename: 'pixelart-element.bundle.js'
   },
   mode: 'production',
   module: {
