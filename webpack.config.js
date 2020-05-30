@@ -2,11 +2,12 @@ const webpack = require("webpack");
 
 module.exports = {
   entry: {
-    main: 'src/main.js'
+    'main': 'src/main.js',
+    'pixelart-element': 'src/forScriptTag.js'
   },
   output: {
     path: `${__dirname}/dist/`,
-    filename: 'pixelart-element.bundle.js'
+    filename: '[name].bundle.js'
   },
   mode: 'production',
   module: {
