@@ -2,7 +2,7 @@
 
 The custom element by displaying pixelart beautifully
 
-Sample page is here -> https://garakuta-toolbox.com/pixelart-element/
+Sample page is here -> https://piyoppi.github.io/pixelart-element/
 
 ## Install
 
